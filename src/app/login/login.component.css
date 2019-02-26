@@ -1,0 +1,21 @@
+.container{
+    margin-top: 50px;
+    background-color: lightblue;
+    
+}
+
+.panel-title{
+    text-align: center;
+    color:blue;
+    font-size: 30px;
+
+}
+
+.i1{
+    margin-left: 500px;
+}
+
+.form-signin{
+    padding: 10px;
+}
+ 
